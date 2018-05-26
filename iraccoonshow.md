@@ -3,7 +3,7 @@ tab: none
 title: <em>iRaccoonShow</em>
 layout: page
 permalink: /iRaccoonShow/
-redirect_from: "/iraccoonshow.php"
+redirect_from: /iraccoonshow.php.html
 redirect_to:
   - http://www.iraccoonshow.tk
 ---
