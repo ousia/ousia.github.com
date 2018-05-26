@@ -6,3 +6,5 @@ author:
 lang: en
 show.downloads: 0
 theme: minima
+plugins:
+  - jekyll-redirect-from
