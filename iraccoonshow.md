@@ -2,8 +2,10 @@
 tab: none
 title: <em>iRaccoonShow</em>
 layout: page
-redirect_from: iraccoonshow.php
-permalink: /iRaccoonShow
+permalink: /iRaccoonShow/
+redirect_from: "/iraccoonshow.php"
+redirect_to:
+  - http://www.iraccoonshow.tk
 ---
 
 _iRaccoonShow_ has a new domain: <http://www.iraccoonshow.tk/>.
