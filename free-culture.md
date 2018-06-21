@@ -2,7 +2,7 @@
 tab: none
 title: <em>Free Culture</em>
 layout: page
-# permalink: /freeculture/
+permalink: /free-culture/
 redirect_from: /freeculture.php.html
 redirect_to:
   - http://www.free-culture.tk
